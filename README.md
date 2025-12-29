@@ -1,5 +1,4 @@
-## Hi there 👋
-## I'm Ladi! Welcome to my Github profile :)
+## Hi there 👋 <br> I'm Ladi! Welcome to my Github profile :)
 
 I'm a Computer Science Student. Currently, my main project is a mobile application to assist in learning Brazilian Sign Language (Libras), using Dart and Flutter.
 
